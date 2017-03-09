@@ -1,2 +1,2 @@
 # OpenCV
-OpenCV practice codes
+This repository is made for practicing the OpenCV codes.
