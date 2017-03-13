@@ -1,0 +1,3 @@
+/home/kritwish/opencv/src/threshold/CMakeFiles/edit_cache.dir
+/home/kritwish/opencv/src/threshold/CMakeFiles/rebuild_cache.dir
+/home/kritwish/opencv/src/threshold/CMakeFiles/DisplayImage.dir

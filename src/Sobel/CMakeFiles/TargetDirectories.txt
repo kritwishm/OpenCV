@@ -1,0 +1,3 @@
+/home/kritwish/opencv/src/Sobel/CMakeFiles/edit_cache.dir
+/home/kritwish/opencv/src/Sobel/CMakeFiles/rebuild_cache.dir
+/home/kritwish/opencv/src/Sobel/CMakeFiles/DisplayImage.dir

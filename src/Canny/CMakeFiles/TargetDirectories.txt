@@ -1,0 +1,3 @@
+/home/kritwish/opencv/src/Canny/CMakeFiles/edit_cache.dir
+/home/kritwish/opencv/src/Canny/CMakeFiles/rebuild_cache.dir
+/home/kritwish/opencv/src/Canny/CMakeFiles/DisplayImage.dir

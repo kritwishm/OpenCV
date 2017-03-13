@@ -1,0 +1,3 @@
+/home/kritwish/opencv/src/Changing the contrast/CMakeFiles/edit_cache.dir
+/home/kritwish/opencv/src/Changing the contrast/CMakeFiles/rebuild_cache.dir
+/home/kritwish/opencv/src/Changing the contrast/CMakeFiles/DisplayImage.dir
